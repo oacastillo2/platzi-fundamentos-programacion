@@ -7,13 +7,13 @@ Honestamente siento que he iniciado una y otra vez, que lo que estoy aprendiendo
 
 Programas cargados:
 1) Peso en otro planeta (HTML & JavaScript).
-El usuario indica si quiere saber su peso en Marte o Jupiter, luego indica cuanto pesa en la Tierra. Posteriormente el programa le indica su peso en el planeta seleccionado, basado en su peso en la tierra.
+El usuario indica si quiere saber su peso en Marte o Jupiter, luego indica cuanto pesa en la Tierra. Posteriormente el programa le indica su peso en el planeta seleccionado, basado en su peso en la tierra.\n
 Archivos: marte.html
 
 2) Canvas (HTML & JavaScript)
-EL usuario define cuantas líneas quiere dibujar y el programa las dibuja. Para volver a dibujar, puede borrar el canvas sin tener que recargar la página.
-Archivos: dibujo.hmtl, dibujo.js
+EL usuario define cuantas líneas quiere dibujar y el programa las dibuja. Para volver a dibujar, puede borrar el canvas sin tener que recargar la página.\n
+Archivos: dibujo.html, dibujo.js
 
 3) Teclas (HTML & JavaScript)
-Dibuja lineas verdes en un canvas, detectando la presión de las teclas de arriba, abajo, izquierda, derecha.
-Archivos: teclas.hmtl, evento.js
+Dibuja lineas verdes en un canvas, detectando la presión de las teclas de arriba, abajo, izquierda, derecha.\n
+Archivos: teclas.html, evento.js
