@@ -14,3 +14,5 @@ EL usuario define cuantas líneas quiere dibujar y el programa las dibuja. Para 
 
 3) Teclas (HTML & JavaScript)
 Dibuja lineas verdes en un canvas, detectando la presión de las teclas de arriba, abajo, izquierda, derecha. Archivos: teclas.html, evento.js
+
+Enlace del Curso: https://platzi.com/clases/programacion-basica/
