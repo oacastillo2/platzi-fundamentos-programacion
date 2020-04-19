@@ -15,7 +15,7 @@ EL usuario define cuantas líneas quiere dibujar y el programa las dibuja. Para 
 3) Teclas (HTML & JavaScript)
 Dibuja lineas verdes en un canvas, detectando la presión de las teclas de arriba, abajo, izquierda, derecha. Archivos: teclas.html, evento.js
 
-3) Pakiman (HTML & JavaScript)
+4) Pakiman (HTML & JavaScript)
 Muestra en en el document del navegador, figuras con sus atributos. En este proyecto fue interesante el manejo de clases en diferentes archivos *.js y el llenado de arrays con push. Archivos: pakiman.html, pakiman.js pakimanClase.js
 
 Enlace del Curso: https://platzi.com/clases/programacion-basica/
